@@ -1,0 +1,37 @@
+
+< .NET Coreとは？ >
+
+.NET Coreとは、WebアプリケーションやWindowsのデスクトップアプリを作ることができる、.NETのフレームワークのひとつです。
+
+Microsoftが設立した.NET Foundationという団体が、主に開発の促進を行っています。
+
+C#、Visual BASIC、F#という3つのプログラミング言語に対応し、クラウド、人工知能、IoT、クライアントUI、機械学習の開発用に提供されています。
+
+
+< そもそも.NETとは？ >
+
+NETとは、Microsoftが立ち上げた「Microsoft .NET」という構想を示しています。
+
+もともとは「.NET」という単語は、ありとあらゆるシステムや機器をインターネット経由で接続するという世界観であり、現在の「IoT」と同じような考え方です。
+
+現在では「.NET」とは、Microsoftが開発している「.NET Framework」やその派生先を指す、ブランド名のようなものと考えていいでしょう。
+
+
+< .NET Coreの基礎知識 >
+
+
+
+
+
+.NET Coreとは？基礎知識と特徴4つ｜メリットや活用方法について
+https://www.fenet.jp/dotnet/column/tool/3328/
+
+
+
+
+
+
+
+
+.NET Coreとは？ 開発環境（SDKとVisual Studio Code）のインストール
+https://www.buildinsider.net/language/dotnetcore/01
